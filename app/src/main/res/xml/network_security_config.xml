@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">fms.erkasolusi.cloud</domain>
+        <domain includeSubdomains="true">erkatrack.id</domain>
+        <domain includeSubdomains="true">192.168.1.255</domain>
+    </domain-config>
+</network-security-config>
