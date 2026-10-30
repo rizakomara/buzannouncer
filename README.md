@@ -2,7 +2,7 @@
 Android-based software for Public Transport Announcer using Car Android Head Unit.
 Please use Android Studio to compile and deploy.
 
-<u>Capabilities:</u>
+<i>Capabilities:</i>
 1. Automatic Bus stop Voice Announcer based on GPS Coordinates
 2. Custom Voice Announcement
 3. GPS Tracking Capability, when your Head Unit have 4G LTE capability.
