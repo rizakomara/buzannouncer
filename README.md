@@ -13,7 +13,7 @@ Please use Android Studio to compile and deploy.
 2. A CH340 USB to Serial/RS485 for other equipment integration (optional)
 3. We recommend using <b>File Manager+</b> to manipulate files on your Head Unit.
 4. By using <b>File Manager+</b>, create <b>obuconfig</b> folder at root of Head Unit's Internal Storage
-5. Copy config.xml, customvoice.xml, pisdata.txt and routelist.txt to obuconfig folder
+5. Copy <b>config.xml, customvoice.xml, pisdata.txt</b> and <b>routelist.txt</b> to <b>obuconfig</b> folder
 6. Create mp3 files for Voice Announcement and store the files at Music folder of your Head Unit
 
 
