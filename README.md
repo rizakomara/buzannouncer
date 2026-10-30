@@ -24,7 +24,7 @@ RS485 format (2400,8N1)
 
 $PIS,[routecode],[routename],[time],[position],[mutestate],[buscode],[datetime],[voicetoplay],[overspeedalert],[routedelimiter],[busstop],[ledfrontmode],[ledsidemode],[ledindoormode],[ledcodecolor],[lednamecolor],[ledbusstopcolor],[ledcoderoutebgcolor],*
 
-This data will be sent every 1 second.
+The data send every 1 second.
 
 Examples:
 
@@ -33,7 +33,7 @@ Examples:
 
 <i>GPS Tracking Capabilities:</i>
 
-GPS Data send periodically using OsmAnd protocol. Usually Tracking server are able to receive this protocol, such as Traccar (Opensource), etc.
+GPS Data send periodically using OsmAnd protocol. Usually Tracking server are able to receive this protocol, such as Traccar (Opensource), etc. There are many references on Internet regarding this protocol. Google is always your friend!
 
 
 
