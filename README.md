@@ -17,6 +17,7 @@ Please use Android Studio to compile and deploy.
 6. Create <b>mp3 files</b> for Voice Announcement and store the files at Music folder of your Head Unit
 
 <i>Integration to other equipments:</i>
+
 The simplest ways to integrate with other equipment is using RS-485 communication. RS-485 communication allows many devices connected using only two wires. Please use USB to RS485 converter connected to USB Ports of your Head Unit.
 RS485 format (2400,8N1)
 $PIS,[routecode],[routename],[time],[position],[mutestate],[buscode],[datetime],[voicetoplay],[overspeedalert],[routedelimiter],[busstop],[ledfrontmode],[ledsidemode],[ledindoormode],[ledcodecolor],[lednamecolor],[ledbusstopcolor],[ledcoderoutebgcolor],*
