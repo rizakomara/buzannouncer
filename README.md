@@ -28,8 +28,9 @@ The data send every 1 second.
 
 Examples:
 
-1. For outdoor running text display, you can only parse [routecode] and [routename] fields.
-2. For indoor running text display, you may need to parse [routecode] and [position] fields only.
+1. For <b>Outdoor Running Text Display</b>, you can only parse [routecode] and [routename] fields.
+2. For <b>Indoor Running Text Display</b>, you may want to parse [routecode], [position] fields only, or maybe, [time] will be an advantage to show to passenger, since this is GPS Time, no need to adjust periodically and very accurate.
+3. For <b>Integrated Media Player</b>, you may want to display [routecode], [routename], [position], [buscode], [datetime], etc.
 
 <i>GPS Tracking Capabilities:</i>
 
