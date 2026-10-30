@@ -16,6 +16,16 @@ Please use Android Studio to compile and deploy.
 5. Copy <b>config.xml, customvoice.xml, pisdata.txt</b> and <b>routelist.txt</b> to <b>obuconfig</b> folder
 6. Create <b>mp3 files</b> for Voice Announcement and store the files at Music folder of your Head Unit
 
+<i>Integration to other equipments:</i>
+The simplest ways to integrate with other equipment is using RS-485 communication. RS-485 communication allows many devices connected using only two wires. Please use USB to RS485 converter connected to USB Ports of your Head Unit.
+RS485 format (2400,8N1)
+$PIS,[routecode],[routename],[time],[position],[mutestate],[buscode],[datetime],[voicetoplay],[overspeedalert],[routedelimiter],[busstop],[ledfrontmode],[ledsidemode],[ledindoormode],[ledcodecolor],[lednamecolor],[ledbusstopcolor],[ledcoderoutebgcolor],*
+This data will be sent every 1 second.
+
+Examples:
+For outdoor running text display, you can only parse [routecode] and [routename] fields.
+For indoor running text display, you may need to parse [routecode] and [position] fields only.
+
 
 
 
