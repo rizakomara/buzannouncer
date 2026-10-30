@@ -28,9 +28,8 @@ This data will be sent every 1 second.
 
 Examples:
 
-For outdoor running text display, you can only parse [routecode] and [routename] fields.
-
-For indoor running text display, you may need to parse [routecode] and [position] fields only.
+1. For outdoor running text display, you can only parse [routecode] and [routename] fields.
+2. For indoor running text display, you may need to parse [routecode] and [position] fields only.
 
 
 
