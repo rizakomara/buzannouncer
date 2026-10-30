@@ -31,5 +31,9 @@ Examples:
 1. For outdoor running text display, you can only parse [routecode] and [routename] fields.
 2. For indoor running text display, you may need to parse [routecode] and [position] fields only.
 
+<i>GPS Tracking Capabilities:</i>
+
+GPS Data send periodically using OsmAnd protocol. Usually Tracking server are able to receive this protocol, such as Traccar (Opensource), etc.
+
 
 
