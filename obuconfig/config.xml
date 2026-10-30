@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
     <serveraddress>http://erkatrack.id:5055</serveraddress>
-    <tc_username>rizakomara_gmail_com</tc_username>
     <playeraddress>192.168.1.255</playeraddress>
     <sendinterval>5</sendinterval>
     <deviceid>666666</deviceid>
