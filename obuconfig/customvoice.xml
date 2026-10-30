@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customvoice>
+    <button1title>DILARANG MAKAN MINUM</button1title>
+    <button1voice>makanminum.mp3</button1voice>
+    <button2title>PERHATIKAN BARANG</button2title>
+    <button2voice>perhatikanbarang.mp3</button2voice>
+    <button3title>WELCOME BALI</button3title>
+    <button3voice>welcomebali.mp3</button3voice>
+</customvoice>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <serveraddress>http://erkatrack.id:5055</serveraddress>
+    <tc_username>rizakomara_gmail_com</tc_username>
+    <playeraddress>192.168.1.255</playeraddress>
+    <sendinterval>5</sendinterval>
+    <deviceid>666666</deviceid>
+    <buscode>BUS001</buscode>
+    <disttol>80</disttol>
+    <headtol>40</headtol>
+    <speedalarm>50</speedalarm>
+    <routedelimiter>|</routedelimiter>
+    <ledcodebgcolor>FFFFFF</ledcodebgcolor>
+    <ledcodecolor>FF0000</ledcodecolor>
+    <lednamecolor>00FF00</lednamecolor>
+    <ledbusstopcolor>0000FF</ledbusstopcolor>
+</config>
