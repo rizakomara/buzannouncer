@@ -1,6 +1,6 @@
 # buzannouncer
 Android-based software for Public Transport Announcer using Car Android Head Unit.
-Please use Android Studio to compile and deploy.
+Please use <i>Android Studio</i> to compile and deploy.
 
 <i>Capabilities:</i>
 1. Automatic Bus stop Voice Announcer based on GPS Coordinates
